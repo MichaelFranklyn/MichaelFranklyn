@@ -30,5 +30,3 @@ Aqui está algumas informações sobre mim:
  ## 
   
  
- ![Snake animation](https://github.com/MichaelFranklyn/MichaelFranklyn/blob/output/github-contribution-grid-snake.svg)
-
