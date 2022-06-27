@@ -4,7 +4,7 @@ Aqui está algumas informações sobre mim:
 
 - 😀 Tenho 24 anos 
 - 📚 Graduando em Engenharia de Petróleo - UFBA 
-- 🌱 Estou cursando Desenvolvimento de Software - Full Stack na Cubos Academy 
+- 🌱 Desenvolvedor de Software - Full Stack na Cubos Academy 
 - 💻 Atualmente tenho conhecimento em HTML | CSS | JavaScript | Lógica | Banco de Dados | SQL | Node.js| React | GIT
 
 ##
